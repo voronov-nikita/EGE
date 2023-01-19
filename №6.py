@@ -12,7 +12,7 @@
 
 # Вариант №2
 # можно использовать библиотеку turtle
-from turtle import *
+from turtle import speed, done, forward, pu, dot, goto, right, left
 
 mashtab = 30    # для удобства можно использовать маштаб
 
