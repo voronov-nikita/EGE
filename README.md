@@ -29,7 +29,7 @@
 10. [Задание №10](./tasks/task10)
 11. [Задание №11](./tasks/task11)
 12. [Задание №12](./tasks/task12)
-13. [Задание №13](./tasks/task13)
+13. [Задание №13 (новое от 2024)](./tasks/task13)
 14. [Задание №14](./tasks/task14)
 15. [Задание №15](./tasks/task15)
 16. [Задание №16](./tasks/task16)
@@ -50,8 +50,8 @@
 ## **Useful Links**
 1. python - [python.org](https://python.org)
 2. Сдам ЕГЭ/ГИА информатика - [inf-ege.sdamgia.ru](https://inf-ege.sdamgia.ru/)
-3. 
-
+3. Pro100 ЕГЭ - [youtube.com](https://www.youtube.com/channel/UCYszoUecy8xroj_kjPOgOQQ)
+4. 
 
 ## **More Information**
 Некоторые решения были взяты из открытых источников интернета.
@@ -60,8 +60,8 @@
 
 Репозиторий полностью заполнен [voronov-nikita](https://github.com/voronov-nikita).
 
-Реапозиторий служит напоминалкой всех решений, изученных в процессе подоготовке.
+Репозиторий служит напоминалкой всех решений, изученных в процессе подоготовке.
 
 <br><br>
 
-###### 30.08.2023 - last commit.
+###### 04.09.2023 - last commit.
